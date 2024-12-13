@@ -1,0 +1,27 @@
+- arquivo:
+    - nome: arquivo.txt
+      tamanho: 2
+  usuario: teste
+  tamanho: 0
+- usuario: jv
+  arquivo:
+    - nome: null
+      tamanho: null
+  tamanho: 0
+- usuario: joao
+  arquivo:
+    - nome: null
+      tamanho: null
+  tamanho: 0
+- usuario: joao vitor
+  arquivo:
+    - nome: null
+      tamanho: null
+  tamanho: 0
+- usuario: Carla
+  arquivo:
+    - nome: null
+      tamanho: null
+    - nome: teste.txt
+      tamanho: 5
+  tamanho: 0

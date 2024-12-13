@@ -1,0 +1,10 @@
+- user: teste
+  password_hash: null
+- user: jv
+  password_hash: 25d55ad283aa400af464c76d713c07ad
+- user: joao
+  password_hash: 25d55ad283aa400af464c76d713c07ad
+- user: joao vitor
+  password_hash: 25d55ad283aa400af464c76d713c07ad
+- user: Carla
+  password_hash: 25d55ad283aa400af464c76d713c07ad
